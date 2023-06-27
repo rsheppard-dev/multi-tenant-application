@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1687874505704,
+      "tag": "0000_skinny_wendigo",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1687878372707,
+      "tag": "0001_powerful_captain_america",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1687878686855,
+      "tag": "0002_glossy_stellaris",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1687879462821,
+      "tag": "0003_rich_the_spike",
+      "breakpoints": false
+    }
+  ]
+}
